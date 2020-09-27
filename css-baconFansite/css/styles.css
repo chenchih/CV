@@ -4,16 +4,13 @@ h1{
    color: red;
    font-size: 200px;
 }
-/*
-img{
-background-color: red;
+
+img:hover{
+background-color: gold;
 }
 
-*/
-img:hover
-{
-  background-color: gold;
-}
+
+
 /*********************class selctor*************/
 .bacon{
   background-color: green;
@@ -22,9 +19,11 @@ img:hover
   background-color: red;
 }
 .circular{
-   border-radius: 100%;
+  border-radius: 100%;
 }
+
 /*********************ID selctor*************/
 #heading {
-color: blue;
-}
+  color: blue;
+  }
+
