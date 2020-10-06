@@ -2,32 +2,38 @@
 body{
 margin: 0;
 text-align: center;
-font-family: Verdana, Sans-serif;
+font-family: 'Merriweather', serif;
+font-size:200%;
 }
 
 
 h1{
-margin-top: 0;
-}
-
-.top{
-background-color: #E4F9F5;
-position: relative;
-padding-top:100px ;
-
+font-size: 5.6245rem;
+margin-top: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
 
 }
-
-.middle{
-  background-color:red;
-  height: 200px;
-width: 200px;
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
 
 }
-.bottom{
-  background-color:blue;
-  height: 200px;
-width: 200px;
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top:100px ;
+
+}
+
+.middle-container{
+
+}
+.bottom-container{
+
 
  }
     
