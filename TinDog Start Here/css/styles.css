@@ -27,7 +27,7 @@ color: #8f8f8f;
 }
 
 .container-fluid{
-padding: 5% 15%;
+padding: 5% 15% 7%;
 }
 
 /*Navigation bar */
@@ -56,15 +56,20 @@ margin: 5% 3% 5% 0%;
 .title-image{
   width: 60%;
   transform: rotate(25deg);
+  position: absolute;
+  left: 30%;
 }
 
 /* Feature Section*/
 #features{
-  padding: 7% 15%;  
+  padding: 7% 15%; 
+  background-color: #fff; 
+  position: relative;
+ 
 }
 .feature-box{
   text-align: center;
-  padding:5%;
+  padding:4.5%;
 
 }
 
