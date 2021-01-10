@@ -117,6 +117,33 @@ padding-bottom: 3%;
 padding: 3% 2%;
 text-align: center;
 }
+
+/*CTA section */
+#cta{
+background-color: #ff4c68;
+color:#fff;
+padding: 7% 15%;
+text-align: center;
+
+}
+.cta-heading{
+font-family: 'Montserrat-Black' ; 
+font-size: 3.5rem;
+line-height:1.5;
+
+}
+
+/* Footer Section*/
+#footer{
+padding: 7% 15%;
+text-align: center;
+}
+/* social-icon*/
+.social-icon{
+margin: 20px 10px;
+}
+
+
 @media (max-width:1028px){
   #title{
     text-align: center;
@@ -126,3 +153,4 @@ text-align: center;
     transform: rotate(0);
   }
 }
+
